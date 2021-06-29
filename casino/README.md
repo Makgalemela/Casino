@@ -1,4 +1,4 @@
-# Casine
+# Casino
 This project was generated with Angular CLI version 7.3.7.
 
  # Development server
